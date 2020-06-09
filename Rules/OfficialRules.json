@@ -176,5 +176,9 @@
 		"operaSize": 1,
 		"operas": "启动广告@1@com.mipay.wallet.ui.MipayEntryActivity@TEXT@跳过@0",
 		"packageName": "com.mipay.wallet"
-	}]
-}
+	},{
+                "enable":true,
+                "name":"作业互助组",
+                "operaSize":0,    
+	"operas":"null@1@com.v.zy.activity.VZyJumpActivity@ID@com.z.hhwk:id/bt_close@0",     
+                "packageName":"com.z.hhwk"}]
